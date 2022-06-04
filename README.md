@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhaneh-moayeri&label=Profile%20views&color=0e75b6&style=flat" alt="reyhaneh-moayeri" /> </p>
 
-- 🔭 I’m currently working on **Kaman inc**
+- 🔭 I’m currently working in **Kaman inc**
 
 - 🌱 I’m currently learning **React,Three js and Testing**
 
