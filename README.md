@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhaneh-moayeri&label=Profile%20views&color=0e75b6&style=flat" alt="reyhaneh-moayeri" /> </p>
 
-- 🔭 I’m currently working in **Haftcin**
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/4c6c7f1c8a744b378b636dcf52ded93a.png?r=v61" width="400" alt="Chris Bongers's Dev Card"/></a>
 
-- 🌱 I’m currently learning **React,Three js and Testing**
-
-- 👯 I’m looking to collaborate on **Creative projects**
 
 - 💬 Ask me about **Vue js, Three js**
 
