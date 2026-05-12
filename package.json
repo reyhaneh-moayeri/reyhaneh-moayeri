@@ -1,0 +1,20 @@
+{
+  "name": "rey.dev",
+  "version": "1.1.1",
+  "description": "Terminal card for Reyhaneh",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "reydev": "bin/cli.js"
+  },
+  "files": [
+    "bin/cli.js"
+  ],
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23",
+    "open": "^10.1.0",
+    "terminal-link": "^3.0.0"
+  }
+}
