@@ -14,4 +14,4 @@ A little more about me... with npm installed, just type
 npx rey.dev
 ```
 
-<img alt="Terminal output of npx rey.dev" src="./docs/npx-card.png" />
+<!-- <img alt="Terminal output of npx rey.dev" src="./docs/npx-card.png" /> -->
