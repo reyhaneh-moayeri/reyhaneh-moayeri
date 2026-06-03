@@ -1,4 +1,4 @@
-<h2>It's me, @Reyhaneh!</h2>
+<h2>It's me, @Reyhane!</h2>
 <p><em>Software Developer</br>
 </em></p>
 
