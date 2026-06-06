@@ -2,8 +2,6 @@
 <p><em>Software Developer</br>
 </em></p>
 
-> Always curious, always learning, and often coding, especially in JavaScript.
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,nuxtjs,css,tailwind,vercel,sentry,pnpm,nodejs,mongodb,jest,tailwind,graphql,gitlab,firebase,nodejs,docker,threejs)](https://skillicons.dev)
 
 ---
